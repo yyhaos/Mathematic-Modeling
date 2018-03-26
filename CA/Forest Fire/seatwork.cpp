@@ -3,8 +3,8 @@ using namespace std;
 //Simulate the formation and spread of forest fire by CA
 int main ()
 {
-    double p=0.3, f=0.0005, maxn=RAND_MAX;  //p=probability of growing a new tree in open area, f=probability of lighting a tree up
-    int t=0, N=5, M=10, i, j;               //t=time(a specific unit of time, N=max time, M=max area
+    double p=0.3, f=0.05, maxn=RAND_MAX;  //p=probability of growing a new tree in open area, f=probability of lighting a tree up
+    int t=0, N=25, M=3, i, j;               //t=time(a specific unit of time, N=max time, M=max area
     int s[N+5][M+5][M+5];                   //s=the forest:0==open area, 1==a tree(or tree area), 2==a burning tree(burning area)
     memset(s,0,sizeof(s));                  //initialization random started
     for (i=0 ; i<= M+1;i++)
