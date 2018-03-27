@@ -2,7 +2,7 @@
 #include<windows.h>
 using namespace std;
 //3.26  Simulate the formation and spread of forest fire by CA
-//3.27  update    :   fix bugs , a new way show result ('T' = tree, '#' = burning, ' ' = open area , add count(NUM_open NUM_trees NUM_burning)
+//3.27  update    :   fix bugs , a new way show result ('T' = tree, '#' = burning, ' ' = open area) , add count function (NUM_open NUM_trees NUM_burning)
 char change(int a)
 {
     char ans;
@@ -17,9 +17,11 @@ char change(int a)
 
 int main ()
 {
-    double p=0.3, f=0.005, maxn=RAND_MAX;  //p=probability of growing a new tree in open area, f=probability of lighting a tree up
-    int t=0, N=25, M=30, i, j, num[2];               //t=time(a specific unit of time, N=max time, M=max area
+    double p=0.3, f=0.005, maxn=RAND_MAX;   //p=probability of growing a new tree in open area, f=probability of lighting a tree up
+    int t=0, N=25, M=25, i, j, num[2];      //t=time(a specific unit of time, N=max time, M=max area,num=to count(0 = NUM_open,1 = NUM_trees,2 = NUM_burning)
     int s[N+5][M+5][M+5];                   //s=the forest:0==open area, 1==a tree(or tree area), 2==a burning tree(burning area)
+    srand((unsigned)time(NULL));
+
     memset(s,0,sizeof(s));                  //initialization
     for (i=1 ; i<= M;i++)
         for(j=1;j<=M;j++)
@@ -29,7 +31,7 @@ int main ()
         }
     while(t<=N)                             //main part
     {
-        system("CLS");
+        system("CLS");                      //new way to show result('T' = tree, '#' = burning, ' ' = open area)
         printf("t=%d NUM_open=%d NUM_trees=%d NUM_burning=%d\n",t+1,num[0],num[1],num[2]);
         for(i=1;i<=M;i++)
         {
@@ -39,6 +41,7 @@ int main ()
             }
             printf("\n");
         }
+        Sleep(1000);
 
         for (i=1 ; i<= M;i++)
         {
@@ -87,7 +90,6 @@ int main ()
             }
         }
         t++;
-        Sleep(1000);
     }
     return 0;
 }
