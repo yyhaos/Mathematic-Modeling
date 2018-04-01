@@ -1,0 +1,67 @@
+问题
+考虑森林火灾模型，修改条件：初始状态只有一个着火点，不存在闪电袭击导致着火，从这一个着火点开始蔓延，蔓延的概率达到多大的时候，整个森林可能会被烧光？
+森林火灾模型:利用CA(元胞自动机）模拟森林火灾的产生和蔓延
+
+思路
+固定新树生长的概率（p），调整蔓延概率（q），看q最小为何值时，森林会被烧光。
+蔓延概率:一棵树被一颗相邻燃烧的树点燃的概率
+新树生长的概率：空地长出一颗树的概率
+
+假设
+	森林为正方形，着火点在正中心。
+	新树生长概率p=0.00001。
+	定义森林被烧光：被烧过的老树的面积占森林总面积比例超过90%就说森林被烧光。 
+
+伪代码
+	参数赋值：生长概率p; 火焰蔓延概率 q; 模拟时间T 
+	森林树木的状态赋初值 R=2，G=1，C=0
+T=0时刻，森林的初始状态S[0,I,j]=rand(0,1, 2)
+	T=T+1时 
+如果S[T,i,j]=2,则S[T+1,i,j]=0
+如果S[T,i,j]=0且g<p则S[T,i,j]=1,随机生成[0,1]到1个随机数g,若g<p
+如果S[T,I,j]=1若判断(i,j)周围八个格(m,n)
+S[T,m,n]是否为2;若为2，则 随机生成1个[0,1]随机数g,若f<q 则S[T+1,i,j]=2
+	当没有树正在燃烧，则模拟自动停止，视为火灾停止。
+计数每个被烧过的位置的数目（若某点上的树多次被烧过，则只记一次）
+通过二分法计算出保证森林烧尽要求的临界值q.
+
+结论
+森林烧光的最小蔓延概率q=0.3055。
+
+运行结果（动图）
+见test.gif
+----------------
+Problem
+Considering the forest fire model, modification conditions: there is only one ignition point in the initial state. There is no lightning attack that leads to fire. When this ignition point begins to spread, how much is the probability of spreading, the whole forest may be burned out? Find out the smallest spread probability.
+Forest fire model: using CA (cellular automata) to simulate the generation and spread of forest fires.
+
+Thinking
+Fixed the probability of growth of new trees (p), adjusted the spread probability (q) to see the minimum q value when the forest will be burned out.
+Probability of spread: the probability of a tree being ignited by a neighboring burning tree.
+Probability of growth of new trees: probability of a tree growing out of a open space.
+
+Hypothesis
+The forest is square.
+The ignition point in the initial state is in the centre of the forest.
+p=0.00001.
+The definition of forest is "burned out": the burned area of the old tree accounts for more than 90% of the total forest area, so the forest is burned out.
+
+Pseudo code
+Parameter assignment: growth probability p, flame spread probability q, simulation time T.
+The first value of forest trees is R=2, G=1, C=0
+At T=0 time, the initial state of forest is S[0, I and j]=rand (0,1, 2).
+T=T+1
+If S[T, I, j]=2, then S[T+1, I, j]=0
+If S[T, I, j]=0 and g<p are S[T, I, j]=1, randomly generate [0,1] to 1 random numbers g, if g<p.
+If S[T, I, and j]=1 determine eight lattices around (I, J) (m, n)
+If S[T, m and n] are 2, if 2, 1 [0,1] random numbers G are generated randomly, if f<q is S[T+1, I, j]=2.
+When no trees are burning, the simulation stops automatically, which is regarded as a fire stop.
+Count the number of burned locations. If a tree on a point is burned many times, it will only be remembered once.
+By calculating the critical q. value dichotomy to ensure the requirements of forest burned
+
+Conclusion
+The minimum spread probability of forest light is q=0.3055.
+Operation result (dynamic diagram)
+
+See test.gif
+
