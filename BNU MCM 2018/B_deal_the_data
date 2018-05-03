@@ -1,0 +1,2 @@
+Firstly save the excel in txt, using utf coding.(hard to open the excel for C)
+Then use C to build a Data stack and ouput the data required.(see Bdata_deal.cpp)
