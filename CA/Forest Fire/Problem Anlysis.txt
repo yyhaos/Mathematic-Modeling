@@ -63,6 +63,6 @@ Conclusion
 The minimum spread probability of forest light is q=0.3055.
 Operation result (dynamic diagram)
 
-See test.gif
-
-See a presentation example in presentation.pdf, which is authored by my English class team including Ziyan Jiang,Shuyu Luo, Shengzhe Cheng and Chenghan Xiao.
+See test.gif for the similation result.
+----------------
+See a presentation example of "Research on energy status and forest fire spreading" in "presentation.pdf", which is authored by my English class team including Ziyan Jiang,Shuyu Luo, Shengzhe Cheng and Chenghan Xiao. Here is a similar but in slides-version presentation,which is too large to upload (if u want to kown more, e-mail me for details).
