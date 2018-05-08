@@ -1,4 +1,4 @@
-问题
+﻿问题
 考虑森林火灾模型，修改条件：初始状态只有一个着火点，不存在闪电袭击导致着火，从这一个着火点开始蔓延，蔓延的概率达到多大的时候，整个森林可能会被烧光？
 森林火灾模型:利用CA(元胞自动机）模拟森林火灾的产生和蔓延
 
@@ -65,3 +65,4 @@ Operation result (dynamic diagram)
 
 See test.gif
 
+See a presentation example in presentation.pdf, which is authored by my English class team including Ziyan Jiang,Shuyu Luo, Shengzhe Cheng and Chenghan Xiao.
