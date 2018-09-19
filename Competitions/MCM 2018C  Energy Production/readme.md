@@ -1,5 +1,5 @@
-2018.2.9
-The first time I take part in MCM/ICM.
+## 2018.2.9
+### The first time I take part in MCM/ICM.
 
 Four days hard work:
 1 choice the problem C, do the research, deal the data.
@@ -8,11 +8,11 @@ Four days hard work:
 4 translation, cheak the pridictions, review the works.
 4.5 submit and sleep
 
-Result  No.72819
-Form zero to M prize.
+## Result  No.72819
+### Form zero to M prize.
 (just pretend to solve problems)
 
-Feeling
+## Feeling
 No program at all(if u call dealing data/drawing graphs/fitting lines with Excel/Matlab is programming, u own it)
 Maybe it would be better to work with some girls.
 Most of the participants are Chinese, just have fun :)
