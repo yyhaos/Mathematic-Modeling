@@ -15,9 +15,9 @@ Form zero to M prize.
 ## 2018.5.9
 ### 5th homework  
 Given a few points' heights, predict other points' heights to predict the channal
-![](https://raw.githubusercontent.com/yyhaos/Mathmatic-Modeling/master/Data%20Default%20Process/Prohibition%20zone%20prediction/Í¼1.jpg)
+![](https://raw.githubusercontent.com/yyhaos/Mathmatic-Modeling/master/Data%20Default%20Process/Prohibition%20zone%20prediction/å›¾1.jpg)
 ## 2018.4.19
 ### 4th homework
 predict when is the best time to sell the pig  
 Praised by the professor :)
-![](https://raw.githubusercontent.com/yyhaos/Mathmatic-Modeling/master/Sensitivity%20Analysis/Feed%20the%20Sheep/×îĞ¡ÔöÖØÂÊÍ¼.JPG)
+![](https://raw.githubusercontent.com/yyhaos/Mathmatic-Modeling/master/Sensitivity%20Analysis/Feed%20the%20Sheep/æœ€å°å¢é‡ç‡å›¾.JPG)
