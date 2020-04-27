@@ -6,7 +6,7 @@
 
 Form M to F prize.  
 [Mainpage](/Competitions/MCM 2020D  Teaming Strategies) 
-![Suggest_formation](https://raw.githubusercontent.com/yyhaos/Mathematic-Modeling/master/Competitions/MCM%202020D%20%20Teaming%20Strategies/Suggest_formation.jpg)
+![Suggest_formation](Competitions/MCM%202020D%20%20Teaming%20Strategies/Suggest_formation.jpg)
 
 ## 2018.5.9
 
