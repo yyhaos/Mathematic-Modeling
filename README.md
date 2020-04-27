@@ -5,8 +5,8 @@
 ### The second time I take part in MCM/ICM.  
 
 Form M to F prize.  
-[Mainpage](/tree/master/Competitions/MCM 2020D  Teaming Strategies) 
-![Suggest_formation](Competitions\MCM 2020D  Teaming Strategies\Suggest_formation.jpg)
+[Mainpage](/Competitions/MCM 2020D  Teaming Strategies) 
+![Suggest_formation](tree/master/Competitions\MCM 2020D  Teaming Strategies\Suggest_formation.jpg)
 
 ## 2018.5.9
 
