@@ -5,8 +5,8 @@
 ### The second time I take part in MCM/ICM.  
 
 Form M to F prize.  
-[Mainpage](/Competitions/MCM 2020D  Teaming Strategies) 
-![Suggest_formation](Competitions/MCM%202020D%20%20Teaming%20Strategies/Suggest_formation.jpg)
+[Mainpage](https://github.com/yyhaos/Mathematic-Modeling/tree/master/Competitions/MCM%202020D%20%20Teaming%20Strategies) 
+![Suggest_formation](https://raw.githubusercontent.com/yyhaos/Mathematic-Modeling/master/Competitions/MCM%202020D%20%20Teaming%20Strategies/Suggest_formation.jpg)
 
 ## 2018.5.9
 
@@ -38,6 +38,6 @@ Praised by the professor :)
 
 Form zero to M prize.  
 
-[Mainpage](Competitions/MCM 2018C  Energy Production)  
+[Mainpage](https://github.com/yyhaos/Mathematic-Modeling/tree/master/Competitions/MCM%202018C%20%20Energy%20Production)  
 
 ![Nuclear Energy Prediction](https://raw.githubusercontent.com/yyhaos/Mathematic-Modeling/master/Competitions\MCM 2018C  Energy Production\Nuclear Energy Prediction.PNG)
