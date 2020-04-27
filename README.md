@@ -40,4 +40,4 @@ Form zero to M prize.
 
 [Mainpage](https://github.com/yyhaos/Mathematic-Modeling/tree/master/Competitions/MCM%202018C%20%20Energy%20Production)  
 
-![Nuclear Energy Prediction](https://raw.githubusercontent.com/yyhaos/Mathematic-Modeling/master/Competitions\MCM 2018C  Energy Production\Nuclear Energy Prediction.PNG)
+![Nuclear Energy Prediction](https://raw.githubusercontent.com/yyhaos/Mathematic-Modeling/master/Competitions/MCM%202018C%20%20Energy%20Production/Nuclear%20Energy%20Prediction.PNG)
