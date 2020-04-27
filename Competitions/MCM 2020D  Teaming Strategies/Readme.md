@@ -12,7 +12,7 @@ Four days hard work:
 ### Form M to F prize.  
 (just pretend to solve problems)
 
-![](Results.PNG)
+![](https://raw.githubusercontent.com/yyhaos/Mathematic-Modeling/master/Competitions/MCM%202020D%20%20Teaming%20Strategies/Results.PNG)
 
 ## Feeling
 Programing in analysis the passing and running data. 
