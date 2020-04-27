@@ -20,7 +20,7 @@ Given a few points' heights, predict other points' heights to predict the channa
 ### 4th homework
 
 predict when is the best time to sell the pig  
-Praised by the professor :)
+Praised by the professor :)  
 ![](https://raw.githubusercontent.com/yyhaos/Mathematic-Modeling/master/Sensitivity%20Analysis/Feed%20the%20Sheep/最小增重率图.JPG)
 
 ## 2018.3.29-
