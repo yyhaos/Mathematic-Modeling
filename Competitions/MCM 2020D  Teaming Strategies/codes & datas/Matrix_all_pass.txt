@@ -1,0 +1,292 @@
+match_flex	win	tie	loss
+home	10	4	5	
+away	3	6	10	
+away	0	0	0	
+match	win2	tie2	loss2
+win1	3	1	3	
+tie2	2	2	1	
+loss1	1	2	4	
+Huskies_G1	43	16	8	27	14
+Huskies_F1	897	433	47	464	185
+Huskies_D1	583	82	11	501	129
+Huskies_M1	729	166	24	563	148
+Huskies_F2	491	173	21	318	92
+Huskies_D2	352	43	8	309	101
+Huskies_M2	46	10	1	36	10
+Huskies_M3	487	83	19	404	123
+Huskies_D3	368	38	2	330	78
+Huskies_D4	252	49	3	203	63
+Huskies_F3	64	32	2	32	14
+Huskies_D5	410	62	7	348	87
+Huskies_M4	512	173	21	339	97
+Huskies_M5	33	11	2	22	6
+Huskies_D6	293	35	10	258	78
+Huskies_M6	512	178	29	334	104
+Huskies_M7	12	0	0	12	0
+Huskies_M8	201	63	6	138	44
+Huskies_M9	225	63	11	162	63
+Huskies_F4	435	203	13	232	97
+Huskies_D7	366	57	17	309	79
+Huskies_M10	70	23	3	47	18
+Huskies_M11	54	9	1	45	11
+Huskies_M12	285	120	17	165	63
+Huskies_M13	54	12	3	42	17
+Huskies_F5	336	157	16	179	72
+Huskies_F6	305	117	19	188	43
+Huskies_D8	210	66	11	144	45
+Huskies_D9	25	7	1	18	7
+Huskies_D10	28	5	2	23	6
+gate	0	0	0	0	0
+123123
+cru
+Huskies_G1	0
+Huskies_F1	20
+Huskies_D1	2
+Huskies_M1	6
+Huskies_F2	21
+Huskies_D2	6
+Huskies_M2	1
+Huskies_M3	0
+Huskies_D3	0
+Huskies_D4	3
+Huskies_F3	10
+Huskies_D5	5
+Huskies_M4	3
+Huskies_M5	0
+Huskies_D6	3
+Huskies_M6	10
+Huskies_M7	0
+Huskies_M8	2
+Huskies_M9	0
+Huskies_F4	8
+Huskies_D7	0
+Huskies_M10	0
+Huskies_M11	0
+Huskies_M12	0
+Huskies_M13	0
+Huskies_F5	0
+Huskies_F6	0
+Huskies_D8	0
+Huskies_D9	0
+Huskies_D10	0
+gate	0
+sandian
+17	55
+21	28
+21	20
+44	32
+8	69
+62	13
+8	24
+24	63
+17	51
+12	55
+12	49
+17	58
+15	58
+19	28
+7	49
+11	30
+7	36
+20	63
+25	29
+18	49
+25	1
+6	35
+9	51
+24	37
+12	64
+38	98
+13	43
+1	54
+sandian2
+83	45
+79	72
+83	59
+94	49
+89	63
+90	52
+92	31
+82	35
+83	79
+77	50
+90	44
+90	58
+86	55
+71	93
+88	56
+76	37
+91	43
+79	53
+83	49
+94	46
+87	56
+78	61
+91	56
+83	42
+85	42
+81	72
+89	60
+97	34
+93	51
+84	33
+89	70
+86	51
+87	49
+94	59
+93	64
+80	37
+77	41
+93	55
+86	46
+84	45
+75	99
+94	65
+91	49
+76	63
+93	38
+92	56
+90	61
+93	70
+98	47
+97	45
+name	count	win	lose
+get 1 game
+get 2 game
+get 3 game
+get 4 game
+get 5 game
+get 6 game
+get 7 game
+get 8 game
+get 9 game
+get 10 game
+get 11 game
+get 12 game
+get 13 game
+get 14 game
+get 15 game
+get 16 game
+get 17 game
+get 18 game
+get 19 game
+get 20 game
+get 21 game
+get 22 game
+get 23 game
+get 24 game
+get 25 game
+get 26 game
+get 27 game
+get 28 game
+get 29 game
+get 30 game
+get 31 game
+get 32 game
+get 33 game
+get 34 game
+get 35 game
+get 36 game
+get 37 game
+get 38 game
+name	count	win	lose
+433	12	5	4
+532	5	1	3
+442	13	4	4
+541	2	1	1
+451	5	1	3
+424	1	0	0
+get all games
+triadic configurations with Forwards
+player1	player2	player3	cnt
+Huskies_F2	Huskies_D5	Huskies_M6	30
+Huskies_F2	Huskies_M3	Huskies_D5	26
+Huskies_F2	Huskies_D3	Huskies_D8	23
+Huskies_F2	Huskies_M3	Huskies_D4	23
+Huskies_F2	Huskies_D4	Huskies_M6	22
+Huskies_F2	Huskies_D2	Huskies_D6	19
+Huskies_F2	Huskies_D5	Huskies_M4	18
+Huskies_F2	Huskies_D3	Huskies_D4	18
+Huskies_F1	Huskies_M1	Huskies_F2	18
+Huskies_F2	Huskies_F6	Huskies_D8	17
+Huskies_F2	Huskies_M4	Huskies_M6	17
+Huskies_F1	Huskies_D5	Huskies_M6	16
+Huskies_F2	Huskies_M4	Huskies_D7	16
+Huskies_F2	Huskies_D2	Huskies_D5	16
+Huskies_F1	Huskies_M4	Huskies_D7	14
+Huskies_F2	Huskies_D2	Huskies_M3	14
+Huskies_F2	Huskies_D5	Huskies_M12	14
+Huskies_F1	Huskies_M1	Huskies_D5	13
+Huskies_F1	Huskies_M1	Huskies_M3	13
+Huskies_F2	Huskies_D2	Huskies_D3	13
+Huskies_F2	Huskies_M4	Huskies_F6	12
+Huskies_F2	Huskies_M3	Huskies_D6	12
+Huskies_F2	Huskies_D2	Huskies_M6	11
+Huskies_F1	Huskies_M1	Huskies_M6	11
+Huskies_F2	Huskies_D4	Huskies_M4	11
+Huskies_F2	Huskies_M8	Huskies_D7	11
+Huskies_F1	Huskies_F2	Huskies_D5	11
+Huskies_F2	Huskies_M3	Huskies_M4	10
+Huskies_F2	Huskies_M3	Huskies_D8	10
+Huskies_F2	Huskies_M3	Huskies_D3	9
+ËùÓĞ´«ÇòÊı
+	Huskies_G1	Huskies_F1	Huskies_D1	Huskies_M1	Huskies_F2	Huskies_D2	Huskies_M2	Huskies_M3	Huskies_D3	Huskies_D4	Huskies_F3	Huskies_D5	Huskies_M4	Huskies_M5	Huskies_D6	Huskies_M6	Huskies_M7	Huskies_M8	Huskies_M9	Huskies_F4	Huskies_D7	Huskies_M10	Huskies_M11	Huskies_M12	Huskies_M13	Huskies_F5	Huskies_F6	Huskies_D8	Huskies_D9	Huskies_D10	gate	
+Huskies_G1	2	77	76	24	22	29	0	19	49	14	5	22	7	1	27	10	0	5	2	15	18	0	0	12	1	8	6	7	9	6	0	
+Huskies_F1	0	1	5	30	27	4	0	14	7	18	4	17	22	2	4	27	1	12	3	9	12	2	2	3	2	3	3	3	1	0	38	
+Huskies_D1	107	23	2	92	49	59	3	51	105	73	5	57	26	0	25	21	4	3	6	19	34	2	2	13	2	19	18	23	6	2	12	
+Huskies_M1	20	34	85	7	182	63	10	143	60	79	9	79	72	3	54	77	3	25	10	36	70	8	6	20	4	13	31	46	3	3	24	
+Huskies_F2	6	30	55	117	5	33	8	58	56	64	6	84	50	5	41	58	0	15	15	12	32	0	6	18	3	15	23	41	3	0	35	
+Huskies_D2	62	13	62	46	56	2	0	44	49	39	1	47	22	1	52	12	2	1	5	8	26	1	4	2	1	4	8	2	8	0	8	
+Huskies_M2	2	4	2	6	5	3	2	12	3	12	2	3	5	0	1	8	0	0	0	3	0	0	0	0	0	0	0	3	0	0	1	
+Huskies_M3	12	21	74	168	63	46	7	0	56	88	4	67	27	3	28	44	0	11	11	13	44	4	1	28	8	12	16	22	3	6	5	
+Huskies_D3	120	21	98	47	50	35	5	54	5	59	1	14	30	4	6	23	3	14	9	8	18	1	4	9	3	14	21	42	0	9	5	
+Huskies_D4	25	25	57	62	66	30	9	63	35	2	10	1	33	8	0	30	0	0	7	25	1	0	3	19	0	33	20	2	0	3	3	
+Huskies_F3	0	4	2	5	11	2	1	3	3	3	0	5	1	0	2	8	0	0	0	1	4	0	1	0	0	0	0	0	0	0	9	
+Huskies_D5	27	42	36	75	97	40	3	69	15	0	6	6	29	2	12	67	0	7	11	27	3	3	1	23	9	6	3	2	4	0	3	
+Huskies_M4	5	20	30	71	50	26	3	26	18	28	3	23	8	4	10	34	0	14	5	12	41	6	3	7	0	6	16	25	2	1	21	
+Huskies_M5	1	3	1	3	7	2	0	0	3	4	2	0	4	1	0	1	0	4	2	0	4	0	0	0	0	0	0	0	0	0	4	
+Huskies_D6	43	28	12	32	28	34	2	30	5	1	2	8	19	0	2	9	1	6	9	5	25	1	1	7	1	4	6	1	0	0	6	
+Huskies_M6	1	40	16	54	52	13	4	28	12	50	6	71	24	1	4	3	4	15	15	24	20	2	4	12	4	14	14	1	0	0	34	
+Huskies_M7	2	0	3	5	2	1	0	0	3	1	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Huskies_M8	1	14	1	20	18	2	0	6	9	1	0	5	7	4	3	3	0	1	2	4	31	1	0	0	3	1	0	0	0	0	7	
+Huskies_M9	0	4	4	11	9	2	0	8	4	10	0	10	6	0	14	15	0	2	0	4	7	1	2	0	5	4	1	7	0	0	5	
+Huskies_F4	0	5	0	15	9	0	3	5	0	6	1	7	12	0	2	20	0	2	3	3	2	2	0	4	0	5	10	7	2	0	37	
+Huskies_D7	31	36	18	49	29	17	0	21	12	1	4	2	32	2	24	18	0	39	5	16	1	6	7	6	4	6	22	0	0	0	2	
+Huskies_M10	0	1	3	3	0	0	0	3	2	1	0	2	3	0	1	3	0	0	1	3	9	0	1	0	0	0	0	0	0	0	3	
+Huskies_M11	1	4	0	5	8	1	0	7	7	2	2	1	7	0	2	4	0	0	1	1	7	0	0	0	0	1	1	3	0	0	0	
+Huskies_M12	0	2	4	8	11	0	0	9	3	24	0	22	2	0	3	6	0	1	1	8	8	0	0	2	0	14	4	2	0	0	18	
+Huskies_M13	0	2	3	5	4	5	0	12	2	0	0	6	0	0	4	6	0	0	5	1	12	0	0	2	1	3	1	0	0	0	1	
+Huskies_F5	0	7	1	9	23	1	1	2	1	20	0	7	15	0	1	16	0	0	5	2	4	0	0	11	3	1	17	10	0	1	18	
+Huskies_F6	0	6	8	19	22	6	3	10	6	7	0	3	25	0	0	11	0	0	1	16	15	0	1	6	3	18	0	37	0	0	18	
+Huskies_D8	14	5	12	22	19	4	5	9	42	0	0	2	28	0	2	1	0	0	8	11	0	0	1	10	0	18	49	1	0	0	4	
+Huskies_D9	8	1	7	4	3	7	0	6	0	0	0	10	3	0	0	0	0	0	0	3	1	0	0	1	0	0	3	0	0	0	1	
+Huskies_D10	6	0	1	3	0	0	0	5	10	8	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	1	
+gate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+top passing
+Huskies_M1	Huskies_F2	182
+Huskies_M3	Huskies_M1	168
+Huskies_M1	Huskies_M3	143
+Huskies_D3	Huskies_G1	120
+Huskies_F2	Huskies_M1	117
+Huskies_D1	Huskies_G1	107
+Huskies_D1	Huskies_D3	105
+Huskies_D3	Huskies_D1	98
+Huskies_D5	Huskies_F2	97
+Huskies_D1	Huskies_M1	92
+Huskies_M3	Huskies_D4	88
+Huskies_M1	Huskies_D1	85
+Huskies_F2	Huskies_D5	84
+Huskies_M1	Huskies_D4	79
+Huskies_M1	Huskies_D5	79
+Huskies_G1	Huskies_F1	77
+Huskies_M1	Huskies_M6	77
+Huskies_G1	Huskies_D1	76
+Huskies_D5	Huskies_M1	75
+Huskies_M3	Huskies_D1	74
+Ê§°Ü´«ÇòÊı:
+Huskies_G1	Huskies_F1	Huskies_D1	Huskies_M1	Huskies_F2	Huskies_D2	Huskies_M2	Huskies_M3	Huskies_D3	Huskies_D4	Huskies_F3	Huskies_D5	Huskies_M4	Huskies_M5	Huskies_D6	Huskies_M6	Huskies_M7	Huskies_M8	Huskies_M9	Huskies_F4	Huskies_D7	Huskies_M10	Huskies_M11	Huskies_M12	Huskies_M13	Huskies_F5	Huskies_F6	Huskies_D8	Huskies_D9	Huskies_D10	gate	
+304	124	239	271	261	138	21	187	207	203	24	204	163	14	153	194	1	84	72	87	193	11	19	108	27	69	104	119	8	14	0	
+Position:
+	Huskies_G1	Huskies_F1	Huskies_D1	Huskies_M1	Huskies_F2	Huskies_D2	Huskies_M2	Huskies_M3	Huskies_D3	Huskies_D4	Huskies_F3	Huskies_D5	Huskies_M4	Huskies_M5	Huskies_D6	Huskies_M6	Huskies_M7	Huskies_M8	Huskies_M9	Huskies_F4	Huskies_D7	Huskies_M10	Huskies_M11	Huskies_M12	Huskies_M13	Huskies_F5	Huskies_F6	Huskies_D8	Huskies_D9	Huskies_D10	gate	
+x:	11.7078	68.0974	34.9944	50.3512	54.8175	35.3596	56.7995	46.5791	36.2617	52.1454	66.0432	49.2665	57.1572	62.8395	41.7224	60.1329	48.7805	61.9498	63.8969	72.5374	52.4419	60.4667	51.9478	66.2694	54.9457	67.8596	66.8781	55.1202	39.9346	38.2619	100	
+y:	47.3138	47.8647	54.2359	52.6657	48.4764	45.0352	49.2747	46.8619	51.7928	11.6857	51.2407	36.274	55.3221	44.2019	77.061	35.5217	58	74.2647	58.2492	47.1959	84.5704	49.6222	55.1642	29.3601	48.7471	43.5189	71.65	87.2615	29.3925	23.5714	50	

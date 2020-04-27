@@ -1,11 +1,11 @@
 ## 2018.2.9
 ### The first time I take part in MCM/ICM.
- 
+
 Four days hard work:  
 1 choice the problem C, do the research, deal the data.  
-2 start to write the profile and create the modle while dealing with the data.  
-3 continue to create the moudle(from zero). Start to do some translation and do the fitting/dealing with more data, and pridiction, draw graphs.  
-4 translation, cheak the pridictions, review the works.    
+2 start to write the profile and create the module while dealing with the data.  
+3 continue to create the module(from zero). Start to do some translation and do the fitting/dealing with more data, and prediction, draw graphs.  
+4 translation, check the predictions, review the works.    
 4.5 submit and sleep  
 
 ## Result  No.72819
