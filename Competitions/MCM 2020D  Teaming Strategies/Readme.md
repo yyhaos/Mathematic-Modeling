@@ -19,5 +19,5 @@ Programing in analysis the passing and running data.
 
 It is hard to communicate with each other far away. I mean remote communication (influenced by the COVR, can't go back 2 college).
 
-Worked with two girls (I dominated).  
+Worked with two girls.  
 Most of the participants are Chinese, just have fun :)  
